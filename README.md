@@ -2,5 +2,5 @@
 Version of 'Jobs DONE!' Chrome extension (from bugraalbayrak) for PnT Jira. It plays 'Jobs DONE' sound for completed Jira issues.
 
 ## Get it
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/jobs-done-pnt-jira/
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/jobs-done-pnt-jira/  
 Chrome: https://chrome.google.com/webstore/detail/jobs-done-pnt-jira/gieihokamhejpneefdidfpdjinodcoen
