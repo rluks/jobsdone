@@ -10,7 +10,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://issues.stage.redhat.com/*"
+        "https://issues.stage.redhat.com/*",
         "https://issues.redhat.com/*"
       ],
       "js": [
